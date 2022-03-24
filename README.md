@@ -58,3 +58,5 @@ githubへpushすると自動ビルドされその後デプロイされるので�
 2.npm run build (c言語のコンパイルみたいなもの)
 
 3.npm run start (local環境で実行)
+
+testです
