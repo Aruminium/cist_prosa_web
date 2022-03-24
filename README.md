@@ -50,3 +50,8 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # デプロイについて
 githubへpushすると自動ビルドされその後デプロイされるので、特に考える必要はないです。
+
+#基本フロー
+1.編集する
+2.npm run build (c言語のコンパイルみたいなもの)
+3.npm run start (local環境で実行)
