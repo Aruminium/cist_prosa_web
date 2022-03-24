@@ -44,3 +44,19 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# URL
+[プログラミングサークルHP](https://cist-prosa-web.web.app)
+
+# デプロイについて
+githubへpushすると自動ビルドされその後デプロイされるので、特に考える必要はないです。
+
+#基本フロー
+
+1.編集する
+
+2.npm run build (c言語のコンパイルみたいなもの)
+
+3.npm run start (local環境で実行)
+
+testです
