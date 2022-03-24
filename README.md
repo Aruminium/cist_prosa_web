@@ -47,3 +47,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 # URL
 [プログラミングサークルHP](https://cist-prosa-web.web.app)
+
+# デプロイについて
+githubへpushすると自動ビルドされその後デプロイされるので、特に考える必要はないです。
