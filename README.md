@@ -55,8 +55,18 @@ githubへpushすると自動ビルドされその後デプロイされるので�
 
 1.編集する
 
-2.npm run build (c言語のコンパイルみたいなもの)
+2.npm run build (c言語のコンパイルみたいなもの　buildディレクトリに情報が詰まってる)
 
 3.npm run start (local環境で実行)
 
 testです
+
+# 概要
+components 使い回しできるものだったりをおく
+pages ルーティングさせたいものをおく
+
+index.tsx topページ
+
+(間違っているかもしれませんが)
+creat react app した時、デフォルトでpublicがデプロイされる
+今回build ディレクトリをデプロイされるようにしています。 (npm run build とは関係ない)
