@@ -70,3 +70,4 @@ index.tsx topページ
 (間違っているかもしれませんが)
 creat react app した時、デフォルトでpublicがデプロイされる
 今回build ディレクトリをデプロイされるようにしています。 (npm run build とは関係ない)
+test ムラグチ
