@@ -60,3 +60,5 @@ githubへpushすると自動ビルドされその後デプロイされるので�
 3.npm run start (local環境で実行)
 
 testです
+
+a
